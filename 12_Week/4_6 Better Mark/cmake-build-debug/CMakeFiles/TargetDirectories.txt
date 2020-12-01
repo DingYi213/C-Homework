@@ -1,0 +1,3 @@
+F:/C/C_Work_DR/12_Week/4_6 Better Mark/cmake-build-debug/CMakeFiles/4_6_Better_Mark.dir
+F:/C/C_Work_DR/12_Week/4_6 Better Mark/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/C/C_Work_DR/12_Week/4_6 Better Mark/cmake-build-debug/CMakeFiles/rebuild_cache.dir

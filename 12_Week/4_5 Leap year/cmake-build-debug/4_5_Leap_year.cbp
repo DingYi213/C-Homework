@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="4_5_Leap_year"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_5_Leap_year">
+				<Option output="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/4_5_Leap_year.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_5_Leap_year"/>
+					<CompileFile command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_5_Leap_year/fast">
+				<Option output="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/4_5_Leap_year.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_5_Leap_year/fast"/>
+					<CompileFile command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/bin/mingw32-make.exe -f &quot;F:/C/C_Work_DR/12_Week/4_5 Leap year/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/C/C_Work_DR/12_Week/4_5 Leap year/main.c">
+			<Option target="4_5_Leap_year"/>
+		</Unit>
+		<Unit filename="F:/C/C_Work_DR/12_Week/4_5 Leap year/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

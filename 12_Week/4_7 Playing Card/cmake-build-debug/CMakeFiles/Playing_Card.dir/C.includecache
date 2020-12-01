@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C/C_Work_DR/12_Week/4_7 Playing Card/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
